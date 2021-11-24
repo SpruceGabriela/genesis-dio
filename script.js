@@ -44,6 +44,7 @@ let checkOrder = () => {
         }
     }
     if(clickedOrder.length == order.length) {
+        score++;
         alert(`Pontuação: ${score}\nVocê acertou! Iniciando próximo nível!`);
         nextLevel();
     }
@@ -75,7 +76,6 @@ let createColorElement = (color) => {
 
 //funcao para proximo nivel do jogo
 let nextLevel = () => {
-    score++;
     shuffleOrder();
 }
 
