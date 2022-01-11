@@ -1,6 +1,6 @@
 # Practicing Front-End Automation
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código!
+This repository is a fork from github.com/sprucegabriela/genesis-dio
 
 ### Os requisitos são:
 
