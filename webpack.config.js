@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/js/index.js',
+  entry: '/src/js/script.js',
   output: {
     path: path.resolve(__dirname, './dist/'),
     filename: 'main.js',
@@ -14,8 +14,7 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['@babel/preset-env'],
-            plugins: ['@babel/plugin-transform-runtime'],
+            presets: ['@babel/preset-env']
           },
         },
       },
