@@ -1,13 +1,21 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Front-End Javascript Genius Game -
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
+This repository is my improvement from Spruce Gabriela's Genius Game project (https://github.com/SpruceGabriela/genesis-dio)
 
-### Os requisitos são:
+This project has no commercial purpose.
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+# Devlopment Dependecies
 
-
-## 🚀 Let's code! 🚀
+-babel/core
+-babel/preset-env
+-testing-library/dom
+-testing-library/jest-dom
+-babel-loader
+-eslint
+-eslint-config-airbnb-base
+-eslint-plugin-import
+-eslint-plugin-jest-dom
+-eslint-plugin-testing-library
+-jest
+-webpack
+-webpack-cli
