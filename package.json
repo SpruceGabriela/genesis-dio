@@ -1,0 +1,43 @@
+{
+  "name": "frontend-eslint-babel-webpack",
+  "version": "1.0.0",
+  "description": "This project implements eslint, babel and webpack tools for practice and learn.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgeovanedamasceno/frontend-eslint-babel-webpack.git"
+  },
+  "keywords": [
+    "javascript",
+    "frontend",
+    "eslint",
+    "babel",
+    "webpack",
+    "testing",
+    "library"
+  ],
+  "author": "Geovane Damasceno <xgeovanedamasceno@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgeovanedamasceno/frontend-eslint-babel-webpack/issues"
+  },
+  "homepage": "https://github.com/xgeovanedamasceno/frontend-eslint-babel-webpack#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "@testing-library/dom": "^8.11.1",
+    "@testing-library/jest-dom": "^5.16.1",
+    "babel-loader": "^8.2.3",
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest-dom": "^4.0.1",
+    "eslint-plugin-testing-library": "^5.0.3",
+    "jest": "^27.4.7",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
